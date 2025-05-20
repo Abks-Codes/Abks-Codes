@@ -1,18 +1,21 @@
-## Hi there 👋
+# Hi there 👋, I'm Abikesh Shrestha (Kirito)
+
 🚀 Aspiring Full-Stack Developer | Learning & Building Every Day
 
-🔨 Currently building an Amazon clone using HTML, CSS, and JavaScript
+🔨 Currently working on an Amazon clone website using HTML, CSS, and soon JavaScript.
 
-📚 Learning JavaScript from Bro Code’s YouTube course
+📚 Learning JavaScript through Bro Code's YouTube course.
 
-🌱 Passionate about real-world projects and improving my skills
+🌱 Passionate about building real projects and improving my skills.
 
-🤝 Open to internships, beginner-friendly collaborations, and feedback
+🤝 Open to internships, beginner-friendly collaboration, and feedback.
 
-📫 How to reach me:
-📧 Email: shresthaabks@gmail.com
+---
 
-💼 LinkedIn: [abikesh-shrestha](https://www.linkedin.com/in/abikesh-shrestha-7b6bb1361/)
+### 📫 How to reach me:
+- 📧 Email: shresthaabks@gmail.com
+- 💼 LinkedIn: [Abikesh Shrestha](https://www.linkedin.com/in/abikesh-shrestha-7b6bb1361/)
+
 <!--
 **abks-codes/abks-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
