@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Abikesh Shrestha (Kirito)
+# Hi there 👋, I'm Abikesh Shrestha 
 
 🚀 Aspiring Full-Stack Developer | Learning & Building Every Day
 
