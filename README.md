@@ -2,7 +2,7 @@
 
 🚀 Aspiring Full-Stack Developer | Learning & Building Every Day
 
-🔨 Currently working on an Amazon clone website using HTML, CSS, and soon JavaScript.
+🔨 Currently working on small projects daily.
 
 📚 Learning JavaScript through Bro Code's YouTube course.
 
